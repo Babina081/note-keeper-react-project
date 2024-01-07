@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/note-keeper-react-project/static/js/main.46aa9b8b.js",
+    "main.js": "/note-keeper-react-project/static/js/main.2c7e01e7.js",
     "index.html": "/note-keeper-react-project/index.html",
-    "main.46aa9b8b.js.map": "/note-keeper-react-project/static/js/main.46aa9b8b.js.map"
+    "main.2c7e01e7.js.map": "/note-keeper-react-project/static/js/main.2c7e01e7.js.map"
   },
   "entrypoints": [
-    "static/js/main.46aa9b8b.js"
+    "static/js/main.2c7e01e7.js"
   ]
 }
