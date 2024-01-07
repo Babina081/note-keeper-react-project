@@ -3,9 +3,11 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 html {
   font-family: "Montserrat", sans-serif;
 }
+
 body {
   background: #eee;
   padding: 0 16px;
@@ -35,6 +37,7 @@ footer {
 footer p {
   color: #ccc;
 }
+
 .note {
   background: #fff;
   border-radius: 7px;
@@ -48,6 +51,7 @@ footer p {
   font-size: 1.1em;
   margin-bottom: 6px;
 }
+
 .note p {
   font-size: 1.1em;
   margin-bottom: 10px;
@@ -61,7 +65,7 @@ footer p {
   margin-right: 10px;
   color: #f5ba13;
   border: none;
-  width: 36px;
+  width: 70px;
   height: 36px;
   cursor: pointer;
   outline: none;
@@ -76,6 +80,7 @@ form {
   border-radius: 7px;
   box-shadow: 0 1px 5px rgb(138, 137, 137);
 }
+
 form input,
 form textarea {
   width: 100%;
@@ -86,6 +91,7 @@ form textarea {
   font-family: inherit;
   resize: none;
 }
+
 form button {
   position: absolute;
   right: 18px;
@@ -94,8 +100,8 @@ form button {
   color: #fff;
   border: none;
   border-radius: 50%;
-  width: 36px;
-  height: 36px;
+  width: 50px;
+  height: 50px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   cursor: pointer;
   outline: none;
