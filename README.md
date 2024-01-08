@@ -10,3 +10,8 @@ What I learnt from this projects are:
 7. Concepts of import and exports
 8. Difference between normal function, anonymous function and arrow function
 9. Dynamic rendenring of data using only javascript. For example- new Date().getFullYear() gives the current year.
+10. Use of Hooks (useState)
+11. @material-ui/icons
+12. @material-ui/icons
+13. Conditional Rendering
+14. Git Deploy (using gh-page)
